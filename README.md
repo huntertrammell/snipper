@@ -1,2 +1,2 @@
 # snipper
-Snipper Landing Page Challenge done via @codewell
+Snipper Landing Page Challenge assets & design via @codewell code by yours truly
