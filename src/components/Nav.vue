@@ -82,7 +82,7 @@ export default {
                     width: 100vw;
                     content: '';
                     position: absolute;
-                    background-image: url('../assets/Background.png');
+                    background-image: url('../assets/Background.jpg');
                     background-position: center;
                     background-size: cover;
                     background-repeat: no-repeat;
